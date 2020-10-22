@@ -1,0 +1,17 @@
+dog
+cat
+elephant
+hippo
+alligator
+ants
+penguin
+spider
+bison
+anaconda
+tiger
+lion
+butterfly
+camel
+hamster
+monkey
+lizard
